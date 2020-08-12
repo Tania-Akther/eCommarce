@@ -1,0 +1,6 @@
+E:\Visual_studio\eCom2\ClothBazar\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.dll
+E:\Visual_studio\eCom2\ClothBazar\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.pdb
+E:\Visual_studio\eCom2\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csproj.CoreCompileInputs.cache
+E:\Visual_studio\eCom2\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.dll
+E:\Visual_studio\eCom2\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.pdb
+E:\Visual_studio\eCom2\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csprojAssemblyReference.cache
